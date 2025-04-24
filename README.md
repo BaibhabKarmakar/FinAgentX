@@ -1,10 +1,10 @@
-## 💰 FinAgentX
+# 💰 FinAgentX
 
 **FinAgentX** is an AI-powered autonomous financial planning advisor built using a multi-agent system. It provides real-time, personalized financial advice and investment portfolio management.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - ✅ Real-time stock & crypto market data (via [Finnhub.io](https://finnhub.io/))
 - 🧠 Modular multi-agent architecture
@@ -27,7 +27,7 @@ graph TD
 ```
 
 # Folder Structure : 
-
+```
 FinAgentX/
 ├── agents/
 │   ├── market_agent.py
@@ -38,24 +38,24 @@ FinAgentX/
 ├── .env
 ├── README.md
 └── requirements.txt
+```
 
-
-## Setup instructions : 
-# 1. Clone the repo
+# Setup instructions : 
+## 1. Clone the repo
 git clone https://github.com/BaibhabKarmakar/FinAgentX.git
 cd FinAgentX
 
-# 2. Create and activate virtual environment
+## 2. Create and activate virtual environment
 python3 -m venv venv
 source venv/bin/activate
 
-# 3. Install dependencies
+## 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Add your Finnhub API key to a .env file
+## 4. Add your Finnhub API key to a .env file
 echo "FINNHUB_API_KEY=your_key_here" > .env
 
-# 5. Run
+## 5. Run
 python main.py
 
 
