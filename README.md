@@ -4,7 +4,7 @@
 
 ---
 
-# 🚀 Features
+## 🚀 Features
 
 - ✅ Real-time stock & crypto market data (via [Finnhub.io](https://finnhub.io/))
 - 🧠 Modular multi-agent architecture
@@ -26,7 +26,7 @@ graph TD
     PlannerAgent -->|Final Advice| User
 ```
 
-# Folder Structure : 
+## Folder Structure : 
 ```
 FinAgentX/
 ├── agents/
@@ -40,7 +40,7 @@ FinAgentX/
 └── requirements.txt
 ```
 
-# Setup instructions : 
+## Setup instructions : 
 ## 1. Clone the repo
 ```
 git clone https://github.com/BaibhabKarmakar/FinAgentX.git
