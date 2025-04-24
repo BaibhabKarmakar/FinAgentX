@@ -42,21 +42,32 @@ FinAgentX/
 
 # Setup instructions : 
 ## 1. Clone the repo
+```
 git clone https://github.com/BaibhabKarmakar/FinAgentX.git
 cd FinAgentX
+```
 
 ## 2. Create and activate virtual environment
+```
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ## 3. Install dependencies
+```
 pip install -r requirements.txt
+```
 
 ## 4. Add your Finnhub API key to a .env file
+```
 echo "FINNHUB_API_KEY=your_key_here" > .env
+```
 
 ## 5. Run
+```
 python main.py
+```
 
-
+## Author : 
+Made with purpose and passion by Baibhab Karmakar 
 
