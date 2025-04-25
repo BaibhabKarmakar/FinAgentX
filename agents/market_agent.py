@@ -6,7 +6,7 @@ from core.utils import BaseAgent
 load_dotenv()
 
 class MarketDataAgent(BaseAgent):
-    def __init__(self):
+    def __init__(self , name="MarketDataAent"):
         super().__init__("MarketDataAgent")
         self.api_key = os.getenv("FINHUB_API_KEY")
         self.base_url = "https://finnhub.io/api/v1"
