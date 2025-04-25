@@ -17,6 +17,24 @@
 
 ---
 
+## 🧠 Agents Overview
+
+### 🟢 `MarketDataAgent`
+- Inherits from `BaseAgent`
+- Fetches:
+  - Current Price
+  - Open, High, Low
+  - Previous Close
+- Data source: [Finnhub.io](https://finnhub.io)
+
+### 🟡 `PlannerAgent`
+- Accepts user goal (e.g., *financial freedom*)
+- Accepts target amount (e.g., ₹50,00,000)
+- Uses MarketDataAgent internally
+- Planning logic under development
+
+---
+
 ## 🧠 Architecture (WIP)
 
 ```mermaid
