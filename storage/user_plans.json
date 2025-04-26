@@ -1,0 +1,118 @@
+[
+    {
+        "goal": "financial freedom",
+        "target_amount": 5000000,
+        "monthly_investment": 9909.31000453036,
+        "duration_years": 15,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 209.28
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 161.96
+            },
+            {
+                "symbol": "TSLA",
+                "price": 284.95
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94783.1
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1101.53
+            }
+        ],
+        "timestamp": "2025-04-26 09:00:13"
+    },
+    {
+        "goal": "financial freedom",
+        "target_amount": 5000000,
+        "monthly_investment": 9909.31000453036,
+        "duration_years": 15,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 209.28
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 161.96
+            },
+            {
+                "symbol": "TSLA",
+                "price": 284.95
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94741.99
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1101.53
+            }
+        ],
+        "timestamp": "2025-04-26 09:24:28"
+    },
+    {
+        "goal": "Get a Good car",
+        "target_amount": 500000,
+        "monthly_investment": 6061.607764802853,
+        "duration_years": 5,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 209.28
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 161.96
+            },
+            {
+                "symbol": "TSLA",
+                "price": 284.95
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94739.13
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1101.53
+            }
+        ],
+        "timestamp": "2025-04-26 09:25:22"
+    },
+    {
+        "goal": "Make a building",
+        "target_amount": 10000000.0,
+        "monthly_investment": 2832.9303886637954,
+        "duration_years": 30,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 209.28
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 161.96
+            },
+            {
+                "symbol": "TSLA",
+                "price": 284.95
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94788.22
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1101.53
+            }
+        ],
+        "timestamp": "2025-04-26 09:40:42"
+    }
+]
