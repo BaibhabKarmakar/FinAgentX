@@ -4,13 +4,34 @@
 
 ---
 
-## 🚀 Features
+## 📦 Features Completed
 
-- ✅ Real-time stock & crypto market data (via [Finnhub.io](https://finnhub.io/))
-- 🧠 Modular multi-agent architecture
-- 📊 Financial planning and risk assessment (WIP)
-- 🔄 Dummy vs Live Data Mode
-- 🤖 Future: LLMs, RAG, and Reinforcement Learning agents
+| Feature                        | Status      |
+| ----------------------------- | ----------- |
+| Project Setup & Virtual Env   | ✅ Completed |
+| Market Agent with Finnhub API | ✅ Completed |
+| Planner Agent (Goal-Based)    | ✅ Completed |
+| Modular Codebase              | ✅ Completed |
+| CLI Test Script (`main.py`)   | ✅ Completed |
+| Real-time Stock/Crypto Data   | ✅ Completed |
+
+---
+
+## 🧠 Agents Overview
+
+### 🟢 `MarketDataAgent`
+- Inherits from `BaseAgent`
+- Fetches:
+  - Current Price
+  - Open, High, Low
+  - Previous Close
+- Data source: [Finnhub.io](https://finnhub.io)
+
+### 🟡 `PlannerAgent`
+- Accepts user goal (e.g., *financial freedom*)
+- Accepts target amount (e.g., ₹50,00,000)
+- Uses MarketDataAgent internally
+- Planning logic under development
 
 ---
 
