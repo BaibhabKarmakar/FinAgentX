@@ -114,5 +114,195 @@
             }
         ],
         "timestamp": "2025-04-26 09:40:42"
+    },
+    {
+        "goal": "Make a Villa",
+        "target_amount": 40000000.0,
+        "monthly_investment": 21078.86819708034,
+        "duration_years": 25,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94896.93
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 09:59:24"
+    },
+    {
+        "goal": "Marraige Savings",
+        "target_amount": 100000.0,
+        "monthly_investment": 742.720504047679,
+        "duration_years": 7,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94600.02
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 14:12:15"
+    },
+    {
+        "goal": "Marraige Savings",
+        "target_amount": 100000.0,
+        "monthly_investment": {
+            "10": 819.95,
+            "12.5": 742.72,
+            "15": 671.28
+        },
+        "duration_years": 7,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94599.71
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 14:19:03"
+    },
+    {
+        "goal": "Marraige Savings",
+        "target_amount": 100000.0,
+        "monthly_investment": {
+            "10": 819.95,
+            "12.5": 742.72,
+            "15": 671.28
+        },
+        "duration_years": 7,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94728.64
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 14:23:56"
+    },
+    {
+        "goal": "Buy a luxury Mansion",
+        "target_amount": 1000000.0,
+        "monthly_investment": {
+            "10": 156.82,
+            "12.5": 71.78,
+            "15": 31.84
+        },
+        "duration_years": 40,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94721.63
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 14:27:31"
+    },
+    {
+        "goal": "retirement planning",
+        "target_amount": 4000000.0,
+        "monthly_investment": {
+            "10": 1754.91,
+            "12.5": 1013.09,
+            "15": 570.63
+        },
+        "duration_years": 30,
+        "recommended_assets": [
+            {
+                "symbol": "AAPL",
+                "price": 211.21
+            },
+            {
+                "symbol": "GOOGL",
+                "price": 160.16
+            },
+            {
+                "symbol": "TSLA",
+                "price": 292.03
+            },
+            {
+                "symbol": "BINANCE:BTCUSDT",
+                "price": 94780.27
+            },
+            {
+                "symbol": "NFLX",
+                "price": 1125.64
+            }
+        ],
+        "timestamp": "2025-04-30 14:32:00"
     }
 ]
